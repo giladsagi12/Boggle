@@ -1,9 +1,5 @@
 ####################################
 # FILE : game_runner.py
-# WRITER1 : Alon Ben David , abenda93 , 311218861
-# WRITER2 : Gilad Sagi Fridman   , gilad97 , 319133526
-# EXERCISE : intro2cs ex12 2019-2020
-# DESCRIPTION: makes the screen and games graphic, make stopwatch class
 ########################################
 
 import tkinter as tk
